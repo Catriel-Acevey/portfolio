@@ -4291,3 +4291,27 @@ body.is-preload #banner p {
     padding: 2em 1.5em 0.1em 1.5em;
   }
 }
+
+/* Start: Video Responsive */
+.video-responsive {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 350px; /* Adecua este valor para controlar la altura del video */
+  position: relative;
+  height: 0;
+
+  display: block;
+  margin-top: -1.75em;
+  margin-bottom: 1.75em;
+  margin-left: -1.75em;
+  width: calc(100% + 3.5em);
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+/* End: Video Responsive */
