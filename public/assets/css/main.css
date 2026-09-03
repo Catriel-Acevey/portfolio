@@ -3179,6 +3179,7 @@ button:disabled,
 .features article .image img {
   border-radius: 5px 5px 0 0;
   width: 100%;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 980px) {
