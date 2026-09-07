@@ -21,7 +21,7 @@ export interface Experience {
 
 export interface SkillCategory {
   name: string;
-  skills: { name: string; icon?: string; level?: number }[];
+  skills: { name: string; icon?: string; level?: number; url?: string }[];
 }
 
 export interface UserProfile {
@@ -36,7 +36,8 @@ export interface UserProfile {
     linkedin: string;
     twitter?: string;
   };
-  cvLinks: {
+  cvUrl: string;
+  cvLinks?: {
     es: string;
     en: string;
   };

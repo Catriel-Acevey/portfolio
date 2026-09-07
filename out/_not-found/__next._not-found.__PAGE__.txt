@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+b:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+:HL["/_next/static/chunks/2v3ttr5fib657.css","style"]
+6:X
+d:X
+d:C
+0:{"buildId":"5EG3lAylNtuQ8q0lJ4td_","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center px-6","children":[["$","h2",null,{"className":"text-4xl font-bold tracking-tight mb-4","children":"404"}],["$","p",null,{"className":"text-zinc-400 mb-6","children":"Página no encontrada"}],["$","a",null,{"href":"/","className":"px-4 py-2 bg-zinc-800 text-zinc-100 rounded-lg hover:bg-zinc-700 transition-colors text-sm font-medium","children":"Volver al inicio"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Catriel Acevey — Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Full Stack developer passionate about software engineering, clean architecture, and building efficient, memorable digital products."}]]}]}]}],null]}],"isPartial":"$@9","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"isPartial":"$@c","staleTime":"$6","varyParams":"$d"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2v3ttr5fib657.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":["$","body",null,{"className":"antialiased selection:bg-zinc-800 selection:text-zinc-100 min-h-screen flex flex-col justify-between","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center px-6","children":[["$","h2",null,{"className":"text-4xl font-bold tracking-tight mb-4","children":"404"}],["$","p",null,{"className":"text-zinc-400 mb-6","children":"Página no encontrada"}],["$","a",null,{"href":"/","className":"px-4 py-2 bg-zinc-800 text-zinc-100 rounded-lg hover:bg-zinc-700 transition-colors text-sm font-medium","children":"Volver al inicio"}]]}],[]]}]}]}]]}],"isPartial":"$@e","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+6:300
+10:true
+6:C
+f:0
+9:"$undefined"
+c:"$undefined"
+e:"$undefined"
+5:"$undefined"
