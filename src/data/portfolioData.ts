@@ -36,7 +36,7 @@ export const projectsData: Project[] = [
     image: "/images/countries-app.png",
     tags: ["React", "Redux", "Node.js", "Express", "PostgreSQL", "Sequelize"],
     demoUrl: "",
-    githubUrl: "https://github.com/Catriel-Acevey",
+    githubUrl: "https://github.com/Catriel-Acevey/PI-Countries-main",
     featured: true,
   },
   {
