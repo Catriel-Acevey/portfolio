@@ -8,7 +8,7 @@ The portfolio has a solid technical foundation (Next.js App Router, TypeScript, 
 - **Featured Projects Showcase**: Modern project cards displaying project preview image, tech stack badges, description, and direct links to live demo and GitHub repository.
 - **Experience Timeline**: Structured view of professional roles, companies, achievements, and technologies used.
 - **Technical Skills Matrix**: Categorized skill chips/cards (Frontend, Backend, Tools & Methodologies).
-- **Navigation & Footer**: Polished header/navigation with smooth anchor scrolling and footer with social links and copyright.
+- **Navigation & Footer**: Polished header/navigation with smooth anchor scrolling and footer with social links and copyright. Updated logo in the navigation bar to use an image.
 - **Accessibility & Motion**: Semantic HTML, WCAG AA contrast compliance, keyboard focus states, and subtle purposeful micro-interactions.
 
 ## Capabilities

@@ -23,9 +23,7 @@ export function Navbar() {
           href="/" 
           className="flex items-center gap-2.5 font-bold tracking-tight text-zinc-100 hover:text-white transition-colors group"
         >
-          <span className="w-8 h-8 rounded-lg bg-zinc-800 border border-zinc-700 flex items-center justify-center text-xs font-mono font-semibold text-zinc-200 group-hover:border-zinc-500 group-hover:bg-zinc-700/50 transition-all">
-            CA
-          </span>
+          <img src="/images/logo.png" alt="Logo" className="h-auto max-w-full rounded-lg" style={{ width: 'auto', height: 'auto', maxHeight: '28px' }} />
           <span className="hidden sm:inline font-medium text-sm text-zinc-300 group-hover:text-zinc-100">
             {userProfile.name}
           </span>
